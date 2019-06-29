@@ -1,0 +1,19 @@
+{
+  "name": "woombat-app",
+  "version": "1.0.69",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ronald prato",
+  "license": "MIT",
+  "bin": {
+    "create-woombat-app": "index.js"
+  }
+}
